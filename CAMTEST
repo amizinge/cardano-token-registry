@@ -1,0 +1,54 @@
+{
+    "subject": "857c1f2d6cf7822f1e1bcb3fa338d3164b333f55c55ec5a41279996043414d54455354",
+    "url": {
+        "sequenceNumber": 0,
+        "value": "https://cardanomaze.org",
+        "signatures": [
+            {
+                "signature": "c41fc339be2bec54b94c57e731fc4bd2bdc9574aeef9a48b2cab0824a26417eb691b1c580ae046ccb035dd56118d71d3cceeec653a358bf6916a88182630c303",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "name": {
+        "sequenceNumber": 0,
+        "value": "CARDANO MAZE TESTNET",
+        "signatures": [
+            {
+                "signature": "4af40dee99b0440d33b8e3829cc13f44321170757008909aac155b6d18f51b4590da05b814f989e966911515705a47fbf8b02a9e5aeaa57056125ec12e4c2001",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "CAMTEST",
+        "signatures": [
+            {
+                "signature": "1d98b40c1b4071e30283d35dbbbe44f91e2f4fd35f5c6b5dc61c533c2e4f660650208663e742a27766d470f1480b4fcfa6822ceb04aeabfe8ac5b62e8894950f",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 9,
+        "signatures": [
+            {
+                "signature": "f353ff12d786286cf0374c6430d3f06005bfe4595005eb0e6f5e0987825988817f64edeb2c4dda5986b70946d5dab963af01dac7dd6b0a848d3f3d5b4f792a00",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a070818c38200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "Cardano maze testnet prod",
+        "signatures": [
+            {
+                "signature": "6cde9c166419b935b295aaf8056d003a9ea6b3c8d44c9e7e7c7a92047caf13ed2ba7a420beec842dd2a852f9ce7c89c03f17f4b01a38202dd29603899d8a7502",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
